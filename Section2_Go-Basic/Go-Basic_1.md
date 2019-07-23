@@ -15,7 +15,7 @@
 ##### Variables Type
 ```
 Variables type
-intger, float, String, Boolean
+Intger, Real Number, String, Boolean
 
 etc
 int8  int16  int32  int64
