@@ -5,7 +5,7 @@
 * Install Go, Atom, Git
 #### Development_Enviroment_Setting_2.md
 * Atom Settings
-##Section2 Basic
+## Section2 Basic
 #### Go-Basic_1.md
 * Declaring Variables, Constants
 #### Go-Basic_2.md
