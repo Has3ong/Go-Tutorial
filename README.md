@@ -1,8 +1,6 @@
 # Go-Tutorial
 
 ## Section1 Install Go-lang
-
-## Section1 Install Go-lang
 #### Development_Enviroment_Setting_1.md
 * Install Go, Atom, Git
 #### Development_Enviroment_Setting_2.md
@@ -14,7 +12,6 @@
 #### Go-Basic_2.md
 * Enumeration, Declaring iota
 
-## Section3 Data Type
 ## Section3 Data Type
 #### Go-Data_Type_1.md
 * Boolean Data Type
