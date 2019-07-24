@@ -1,36 +1,25 @@
 # Go-Tutorial
 
-<<<<<<< HEAD
-##Section1 Install Go-lang
-
-=======
 ## Section1 Install Go-lang
->>>>>>> 2025bff1152c1ab729e487da6acb8cae9324c81d
+
+## Section1 Install Go-lang
 #### Development_Enviroment_Setting_1.md
 * Install Go, Atom, Git
 #### Development_Enviroment_Setting_2.md
 * Atom Settings
-<<<<<<< HEAD
 
-##Section2 Basic
-=======
 ## Section2 Basic
->>>>>>> 2025bff1152c1ab729e487da6acb8cae9324c81d
 #### Go-Basic_1.md
 * Declaring Variables, Constants
 #### Go-Basic_2.md
 * Enumeration, Declaring iota
-<<<<<<< HEAD
 
-##Section3 Data Type
-=======
 ## Section3 Data Type
->>>>>>> 2025bff1152c1ab729e487da6acb8cae9324c81d
+## Section3 Data Type
 #### Go-Data_Type_1.md
 * Boolean Data Type
 #### Go-Data_Type_2.md
 * Integer, Real Number, Complex Number Data Type
-<<<<<<< HEAD
 #### Go-Data_Type_3.md
 * String Data Type
 
@@ -49,5 +38,3 @@
 * Slice Basic
 #### Go-Array_Slice_Map_3
 * Slice Advance
-=======
->>>>>>> 2025bff1152c1ab729e487da6acb8cae9324c81d
