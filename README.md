@@ -35,3 +35,7 @@
 * Slice Basic
 #### Go-Array_Slice_Map_3
 * Slice Advance
+#### Go-Array_Slice_Map_4
+* Map
+#### Go-Array_Slice_Map_5
+* Pointer
