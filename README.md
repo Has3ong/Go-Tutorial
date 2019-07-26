@@ -39,3 +39,7 @@
 * Map
 #### Go-Array_Slice_Map_5
 * Pointer
+
+## Section6 Go-Function
+#### Go-Function_1
+* Function Basic
