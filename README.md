@@ -43,3 +43,13 @@
 ## Section6 Go-Function
 #### Go-Function_1
 * Function Basic
+#### Go-Function_2
+* Function Advance
+#### Go-Function_3
+* Defer, Closure
+
+## Section7 Go-OOP
+#### Go-OOP_1
+* User-Defined Type, Struct
+#### Go-oop_2
+* Struct
