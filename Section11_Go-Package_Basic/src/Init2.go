@@ -1,17 +1,3 @@
-## Go-Package_Basic_1
-
-#### Init method
-```
-func init() {
-	fmt.Println("Init Start")
-}
-
-func main() {
-	fmt.Println("Main Start")
-}
-```
-
-```
 package main
 
 import (
@@ -33,5 +19,3 @@ func init() {
 func main() {
 	fmt.Println("Main Method")
 }
-
-```

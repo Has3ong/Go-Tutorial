@@ -17,7 +17,6 @@ func TestFunc() {
 }
 
 func main() {
-
 	TestFunc()
 	fmt.Println("Hello Golang!")
 }
